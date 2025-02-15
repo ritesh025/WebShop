@@ -1,0 +1,67 @@
+{% extends 'app/base.html' %}
+{% load static %}
+{% block title %}Payment{% endblock title %}
+{% block main-content %}
+
+<div class="container">
+ <div class="row mt-5"> 
+    <div class="col-sm-6">
+    <h4>Payment Summary</h4>
+    <hr>
+    {% for item in cart_items %}
+      <div class="card mb-2">
+        <div class="card-body">
+          <h5>Product: {{item.product.title}} </h5>
+          <p>Quantity: {{item.quantity}} </p>
+          <p class="fw-bold">Price: {{item.total_cost}}</p>
+        </div>
+      </div>
+      {% endfor %}
+      <p class="fw-bold">Total Cost + Delivery Charges = <u>Rs. {{totalamount}}</u></p>
+    </div>
+    <div class="col-sm-4 offset-sm-1">
+      <h3>PAY HERE</h3>
+      <hr/>
+      <h5>Total Amount is <u>Rs. {{totalamount}}</h5></u>
+    <div>
+</div>
+      <div class="container my-5">
+          <div class="row">
+                <div class="text-center">
+                  <img src = "{% static "app/images/scanner.jpeg" %}" alt="qrcode" class="qrcode img-fluid img-thumbnail"/> 
+                </div>
+          </div>
+      </div>
+{% comment %} <div class="payment-scanner">
+            <img src="{% static 'shoppinglyx-main/app/static/app/images/payment/QRSCANNER.jpeg' %}" class="img-fluid" height="800px" width="400px">
+        </div>
+      </div> {% endcomment %}
+<form id="paymentForm" action="/paymentdone">
+  <div class="text-center">
+    <button type="button" class="btn btn-warning px-5 fw-bold" onclick="showThankYouPopup()">Continue</button>
+    <br>
+    <small>After Payment Click Here</small>
+  </div>
+</form>
+
+<script>
+  function showThankYouPopup() {
+    Swal.fire({
+      title: "Payment Successful!",
+      text: "Thank you for your payment! Your order has been placed successfully.",
+      icon: "success",
+      confirmButtonText: "OK",
+      confirmButtonColor: "#28a745",
+    }).then((result) => {
+      if (result.isConfirmed) {
+        document.getElementById("paymentForm").submit(); // Submit form after clicking OK
+      }
+    });
+  }
+</script>
+
+    </div>
+ </div>
+
+
+{% endblock main-content %}

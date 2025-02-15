@@ -1,0 +1,103 @@
+.owl-carousel .item{
+ /* border: 1px solid black; */
+ font-size: 24px;
+ text-align: center;
+ margin-top: 20px;;
+}
+
+.owl-next{
+ float:right;
+}
+.owl-prev{
+ float:left;
+}
+.owl-prev span{
+ font-size: 24px;
+ font-weight: bold;
+}
+.owl-next span{
+ font-size: 24px;
+ font-weight: bold;
+}
+
+body nav.navbar {
+    background-color: rgb(10, 90, 251);
+    /* margin-top: 2%; */
+    width:auto;
+    font-size:large;
+}
+body div img.logo{
+    height:40px;
+    width: 50px;
+}
+
+body strong .navbar-brand{
+    font-size:x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.container .salebanner{
+    background-color: darkslategrey;
+    color: whitesmoke;
+}
+
+div.carousel-item img{
+    height: 550px;
+    width:150px;
+    margin: 1% 1% 1% 1%;
+    padding: 1%;
+    overflow: hidden;
+}
+
+h5.description-font{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:600;
+    font-style:normal;
+    word-spacing:normal;
+}
+
+ img.product-image{
+    height: 500px;
+    width: 450px;
+    border: 1px solid darkslategray;
+}
+
+
+img.qrcode{
+    height: 400px;
+    width: 1000px;
+    margin-top: -5%;
+    /* margin: 1%; */
+}
+
+
+/* .payment h1{
+    text-align: center;
+    font-size:300%;
+    font-weight: bolder;
+    text-decoration: dotted ;
+    color: crimson;
+    font-style: italic;
+}
+
+div h1.mt-5{
+  text-align: center;
+  font-size:400%;
+  font-weight:300;
+  color: darkgreen;
+  font-family: fantasy;
+}
+
+div h2.mt-5{
+  text-align: center;
+  font-size:200%;
+  font-weight:900;
+  color:purple;
+  font-family:serif;
+} */
+
+.list-group a{
+    font-size: larger;
+    border: 1px dotted rgb(6, 1, 55);
+    font-weight:600;
+}

@@ -1,0 +1,14 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const form = document.querySelector("form"); // Select the form
+    form.addEventListener("submit", function (event) {
+      // Check if any address is selected
+      const selectedAddress = document.querySelector('input[name="custid"]:checked');
+
+      if (!selectedAddress) {
+        event.preventDefault(); // Stop form submission
+        alert("Please select a shipping address before proceeding to payment.");
+      }
+    });
+  });
+</script>
