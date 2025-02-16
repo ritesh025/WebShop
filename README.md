@@ -103,15 +103,24 @@ Contributions are always welcome!
  Feel free to fork the repo, create a branch, and submit a pull request.
 ## Screenshots
 
-![App Screenshot](file:///C:/Users/rites/OneDrive/Pictures/Screenshots/Screenshot%202025-02-14%20175118.png)
+!(https://github.com/user-attachments/assets/679b5f35-6efb-468e-8ad4-78019eb47860)
 
-![App Screenshot](file:///C:/Users/rites/OneDrive/Pictures/Screenshots/Screenshot%202025-02-14%20175206.png)
+!(https://github.com/user-attachments/assets/ec22bcec-2ac9-46ac-af91-ed8fa17c4ee9)
 
-![App Screenshot](file:///C:/Users/rites/OneDrive/Pictures/Screenshots/Screenshot%202025-02-14%20175206.png)
+!(https://github.com/user-attachments/assets/755f9261-5638-4b12-b6b6-e0aea9fbe15a)
 
-![App Screenshot](file:///C:/Users/rites/OneDrive/Pictures/Screenshots/Screenshot%202025-02-14%20175206.png)
+!(https://github.com/user-attachments/assets/a12297c2-e72f-432b-8b86-b3972ef11bf3)
 
-![App Screenshot](file:///C:/Users/rites/OneDrive/Pictures/Screenshots/Screenshot%202025-02-14%20175206.png)
+!(https://github.com/user-attachments/assets/4a5931d1-c6e6-42ce-b2c9-0635b8f6f6f6)
 
-![App Screenshot](file:///C:/Users/rites/OneDrive/Pictures/Screenshots/Screenshot%202025-02-14%20175206.png)
+!(https://github.com/user-attachments/assets/81bbad5e-e3af-485c-b2e5-e3503bc0ff07)
+
+!(https://github.com/user-attachments/assets/4798cdf9-0e66-48e8-a0a8-7f4139870149)
+
+!(https://github.com/user-attachments/assets/64fd1ec1-9461-4dd8-a115-ce355bf19d88)
+
+
+
+
+
 
