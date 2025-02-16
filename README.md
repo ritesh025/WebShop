@@ -103,7 +103,7 @@ Contributions are always welcome!
  Feel free to fork the repo, create a branch, and submit a pull request.
 ## Screenshots
 
-!(https://github.com/user-attachments/assets/679b5f35-6efb-468e-8ad4-78019eb47860)
+!(https://github.com/ritesh025/WebShop/blob/main/Screenshot%202025-02-16%20154203.png)
 
 !(https://github.com/user-attachments/assets/ec22bcec-2ac9-46ac-af91-ed8fa17c4ee9)
 
