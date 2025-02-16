@@ -103,21 +103,17 @@ Contributions are always welcome!
  Feel free to fork the repo, create a branch, and submit a pull request.
 ## Screenshots
 
-!(Screenshot 2025-02-16 154203.png)
+![Screenshot 2025-02-16 154203](https://github.com/user-attachments/assets/58d0bc1e-d471-40f4-9289-513291b41e08)
+![Screenshot 2025-02-16 154232](https://github.com/user-attachments/assets/fe649899-dc7d-4d76-a9b0-47c3b7244a58)
+![Screenshot 2025-02-16 154251](https://github.com/user-attachments/assets/af73c955-ca10-4a3b-b42f-1b3c6f233948)
+![Screenshot 2025-02-16 154315](https://github.com/user-attachments/assets/069ec850-e281-48d7-9d75-6043b8c53102)
+![Screenshot 2025-02-16 154452](https://github.com/user-attachments/assets/c2749672-8140-4b86-a185-91a53b7b9daf)
+![Screenshot 2025-02-16 154546](https://github.com/user-attachments/assets/32452635-4fc0-4b24-9f00-82663526fff6)
+![Screenshot 2025-02-16 154749](https://github.com/user-attachments/assets/e4e920c6-8aac-44a4-bcaf-54a5bc6a981f)
+![Screenshot 2025-02-16 160814](https://github.com/user-attachments/assets/34afd00e-7237-458a-a701-97d6ce26c6d5)
 
-!(https://github.com/user-attachments/assets/ec22bcec-2ac9-46ac-af91-ed8fa17c4ee9)
 
-!(https://github.com/user-attachments/assets/755f9261-5638-4b12-b6b6-e0aea9fbe15a)
 
-!(https://github.com/user-attachments/assets/a12297c2-e72f-432b-8b86-b3972ef11bf3)
-
-!(https://github.com/user-attachments/assets/4a5931d1-c6e6-42ce-b2c9-0635b8f6f6f6)
-
-!(https://github.com/user-attachments/assets/81bbad5e-e3af-485c-b2e5-e3503bc0ff07)
-
-!(https://github.com/user-attachments/assets/4798cdf9-0e66-48e8-a0a8-7f4139870149)
-
-!(https://github.com/user-attachments/assets/64fd1ec1-9461-4dd8-a115-ce355bf19d88)
 
 
 
